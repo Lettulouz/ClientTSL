@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            bb:1f:7e:bb:76:b7:7c:32:2b:aa:a0:02:76:98:82:d7
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=VirtusProDPKK
+        Validity
+            Not Before: Jan 20 11:43:47 2023 GMT
+            Not After : Apr 24 11:43:47 2025 GMT
+        Subject: CN=ClientDPKK
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:aa:69:02:c5:33:6d:f7:13:db:6b:a5:43:17:b8:
+                    46:88:83:16:26:fa:02:93:20:08:ed:14:e7:99:dd:
+                    db:80:d8:05:e1:fa:78:6e:39:54:11:ed:23:3f:e6:
+                    dc:17:32:53:04:23:ad:cb:1c:de:17:ad:f1:fb:79:
+                    5f:d5:34:82:bf:4f:ff:c4:1f:96:25:0a:88:b3:6e:
+                    2c:ab:71:32:61:0f:e8:a4:71:15:65:19:b5:19:68:
+                    78:91:9a:15:ca:fc:7d:01:b2:09:bf:d6:af:aa:5c:
+                    31:e9:2a:a3:0e:8a:e2:c9:81:dd:54:71:0a:de:8a:
+                    bf:b6:6d:e3:57:1b:a8:7c:8b:a3:9e:d8:69:74:32:
+                    97:ea:20:59:93:8e:7f:dc:92:38:00:bf:a5:14:3e:
+                    82:73:26:ee:36:54:2f:a9:54:c2:81:57:14:98:85:
+                    47:df:72:ae:f4:43:53:62:e0:2a:11:37:01:c2:f9:
+                    9c:b7:f5:ac:d2:2b:8b:89:b2:e8:0b:73:c6:ca:f6:
+                    b7:74:05:64:64:f4:fc:b3:47:e1:47:51:e8:36:d2:
+                    4a:2f:63:c8:ed:75:3a:e0:da:52:b7:1b:f0:14:ef:
+                    d5:e9:de:93:ea:12:59:7f:90:04:9a:2d:c2:cc:59:
+                    34:81:de:5b:0a:0f:61:93:0a:36:66:02:2b:b0:26:
+                    9d:e3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                7D:8D:45:52:AE:97:67:0E:88:9B:6A:54:AC:C9:FD:CC:E7:ED:92:35
+            X509v3 Authority Key Identifier: 
+                keyid:67:D6:B3:A6:5A:8E:6B:28:88:5C:59:F0:99:E0:6A:81:58:DB:D4:97
+                DirName:/CN=VirtusProDPKK
+                serial:1A:83:18:12:98:89:A4:39:95:95:7A:AD:5A:4B:67:CB:AA:7F:DB:AC
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        05:7c:84:91:f8:6b:88:9d:23:42:35:67:54:03:f0:89:ca:ae:
+        b0:80:8d:d1:b4:cd:c5:08:06:91:a1:a3:0e:21:f9:99:84:ec:
+        51:f9:64:fd:c9:74:06:fe:93:26:5c:f3:84:b4:a1:e2:a4:1a:
+        85:c0:db:48:72:ea:3e:2e:0a:e5:9e:91:2a:73:1b:ea:3d:dd:
+        d5:27:12:3b:cb:3c:32:c1:ad:a0:d9:96:cc:bc:99:f4:04:94:
+        9a:03:80:58:32:16:cf:be:ed:15:fa:cd:23:10:17:4c:40:38:
+        3a:51:96:88:0d:5e:15:49:01:53:62:c0:14:b4:59:38:1d:15:
+        4a:2d:1c:87:63:01:71:40:cd:c1:1a:d4:78:39:b8:da:19:3b:
+        19:52:f7:1b:99:2e:19:23:4d:93:50:64:b3:9d:75:20:bb:f7:
+        cb:09:9d:24:8d:ec:3d:c8:f8:61:97:3b:89:7d:69:ca:de:6b:
+        31:92:47:a3:ee:72:bd:a4:d5:45:b5:ae:5e:34:80:b0:1d:26:
+        54:0c:40:0a:84:f6:13:e7:7a:ff:a8:1f:5d:ca:d6:3b:e1:10:
+        49:ff:9f:91:a4:97:92:96:28:ab:ee:31:a4:0c:33:77:81:81:
+        0c:f4:01:3c:42:55:e3:af:f9:7a:0f:72:45:cd:df:ea:4c:98:
+        aa:8f:d3:df
+-----BEGIN CERTIFICATE-----
+MIIDXTCCAkWgAwIBAgIRALsffrt2t3wyK6qgAnaYgtcwDQYJKoZIhvcNAQELBQAw
+GDEWMBQGA1UEAwwNVmlydHVzUHJvRFBLSzAeFw0yMzAxMjAxMTQzNDdaFw0yNTA0
+MjQxMTQzNDdaMBUxEzARBgNVBAMMCkNsaWVudERQS0swggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQCqaQLFM233E9trpUMXuEaIgxYm+gKTIAjtFOeZ3duA
+2AXh+nhuOVQR7SM/5twXMlMEI63LHN4XrfH7eV/VNIK/T//EH5YlCoizbiyrcTJh
+D+ikcRVlGbUZaHiRmhXK/H0Bsgm/1q+qXDHpKqMOiuLJgd1UcQreir+2beNXG6h8
+i6Oe2Gl0MpfqIFmTjn/ckjgAv6UUPoJzJu42VC+pVMKBVxSYhUffcq70Q1Ni4CoR
+NwHC+Zy39azSK4uJsugLc8bK9rd0BWRk9PyzR+FHUeg20kovY8jtdTrg2lK3G/AU
+79Xp3pPqEll/kASaLcLMWTSB3lsKD2GTCjZmAiuwJp3jAgMBAAGjgaQwgaEwCQYD
+VR0TBAIwADAdBgNVHQ4EFgQUfY1FUq6XZw6Im2pUrMn9zOftkjUwUwYDVR0jBEww
+SoAUZ9azplqOayiIXFnwmeBqgVjb1JehHKQaMBgxFjAUBgNVBAMMDVZpcnR1c1By
+b0RQS0uCFBqDGBKYiaQ5lZV6rVpLZ8uqf9usMBMGA1UdJQQMMAoGCCsGAQUFBwMC
+MAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQsFAAOCAQEABXyEkfhriJ0jQjVnVAPw
+icqusICN0bTNxQgGkaGjDiH5mYTsUflk/cl0Bv6TJlzzhLSh4qQahcDbSHLqPi4K
+5Z6RKnMb6j3d1ScSO8s8MsGtoNmWzLyZ9ASUmgOAWDIWz77tFfrNIxAXTEA4OlGW
+iA1eFUkBU2LAFLRZOB0VSi0ch2MBcUDNwRrUeDm42hk7GVL3G5kuGSNNk1Bks511
+ILv3ywmdJI3sPcj4YZc7iX1pyt5rMZJHo+5yvaTVRbWuXjSAsB0mVAxACoT2E+d6
+/6gfXcrWO+EQSf+fkaSXkpYoq+4xpAwzd4GBDPQBPEJV46/5eg9yRc3f6kyYqo/T
+3w==
+-----END CERTIFICATE-----
